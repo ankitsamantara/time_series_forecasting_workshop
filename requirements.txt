@@ -1,0 +1,6 @@
+pmdarima
+prophet
+tensorflow
+seaborn
+plotly
+statsmodels
